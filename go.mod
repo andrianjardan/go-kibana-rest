@@ -1,4 +1,4 @@
-module github.com/disaster37/go-kibana-rest/v8
+module github.com/andrianjardan/go-kibana-rest/add_api_key_auth
 
 go 1.19
 
